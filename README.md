@@ -1,3 +1,4 @@
 # Password_Generator
 
-crate by :- <link>https://patelmark.in/
+Create by :- <link>https://patelmark.in/
+Link :-
